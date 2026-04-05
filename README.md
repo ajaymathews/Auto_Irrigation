@@ -1,4 +1,4 @@
-# Auto Irrigation System (NodeMCU IoT Edition)
+# Auto Irrigation System 
 
 A modernized, secure, and power-efficient smart irrigation system built for the NodeMCU (ESP8266). This system monitors soil moisture levels and automatically triggers a water pump/relay while syncing status to the Blynk IoT cloud.
 
